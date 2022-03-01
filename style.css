@@ -1,0 +1,18 @@
+.hero {
+    height: 100vh;
+    width: 100%;
+    background: rgb(191,160,183);
+background: linear-gradient(90deg, rgba(191,160,183,0.35898109243697474) 0%, rgba(166,197,245,0.26094187675070024) 100%);
+}
+.footer {
+    height: 10vh;
+    width: 100%;
+
+}
+.footer a {
+    font-size: 50px;
+}
+.navigation {
+    height: 7vh;
+    width: 100%;
+}
